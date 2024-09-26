@@ -1,0 +1,36 @@
+﻿body {
+    font-size:1em;
+    line-height: 1.3em;
+    font-family:  Arial; 
+    color:#0C243C;  
+}
+
+nav{
+    float:right;
+    display:inline-block;
+    padding-right:10px;
+}
+
+h1,h2,h3,h4{
+    color: #E94D40;
+}
+
+h3{
+    clear:both;
+}
+
+
+table,tr,th,td{
+    border: 1px solid #0C243C;
+    border-collapse: collapse;
+    padding: 3px;
+    width:50%;
+}
+
+form {
+    padding:10px;
+    border: 1px solid #0C243C;
+    width:35%;
+}
+
+
